@@ -41,13 +41,6 @@ A full-featured **online pharmacy web app** built with **React (frontend)** and 
 
 ---
 
-### ⚡ [Chefaa Backend](https://github.com/Gebaaly/chefaa-backend)  
-The backend for the **Chefaa E-Commerce** project built with **Laravel**.  
-- RESTful API for products, categories, and orders  
-- Authentication and database management  
-- Optimized endpoints for frontend integration  
-
----
 
 ### 🌐 [Portfolio Website](https://github.com/Gebaaly/portfolio)  
 A personal portfolio website to showcase my **skills, projects, and experience**.  
