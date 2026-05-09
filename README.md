@@ -42,7 +42,7 @@ A full-featured **online pharmacy web app** built with **React (frontend)** and 
 ---
 
 
-### 🌐 [Portfolio Website](https://github.com/Gebaaly/portfolio)  
+### 🌐 [Portfolio Website](https://github.com/Gebaaly/gebaly-s-portfolio)  
 A personal portfolio website to showcase my **skills, projects, and experience**.  
 - Built with **React + Bootstrap + Sass**  
 - Modern, responsive design  
