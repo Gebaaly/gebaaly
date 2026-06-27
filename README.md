@@ -47,20 +47,32 @@
 
 ## 💻 Featured Projects
 
-### 🛒 [International E-Commerce Platform & CMS](https://eyetoora.com/ar) `[Live]`
+### 🛒 International E-Commerce Platform & CMS
 A highly scalable, multi-lingual e-commerce ecosystem built for performance.
 * **Tech:** React, Next.js, Node.js, Headless CMS.
 * **Highlights:** Architected a headless CMS for dynamic product and content management. Implemented full `i18n` localization, dynamic currency conversion, and complex financial reporting tools for comprehensive platform governance.
 
-### ⚖️ [Moawkly – Legal Services Platform](https://mowakly-eg-zeta.vercel.app/) `[Live]` | `[Repo](https://github.com/Gebaaly/Mowakly-legal-platform)`
+<a href="https://eyetoora.com/ar"><img src="https://img.shields.io/badge/Live_Demo-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo" /></a>
+
+---
+
+### ⚖️ Moawkly – Legal Services Platform
 A legal-tech platform streamlining communication between lawyers and clients.
 * **Tech:** React, Node.js, Express, MongoDB.
 * **Highlights:** Engineered secure authentication, role-based access management (RBAC), case tracking, consultation scheduling, and real-time notification systems.
 
-### 🎮 [Double Kick – PlayStation Management System](https://double-kick.vercel.app/) `[Live]` | `[Repo](https://github.com/Gebaaly/Double-Kick)`
+<a href="https://mowakly-eg-zeta.vercel.app/"><img src="https://img.shields.io/badge/Live_Demo-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo" /></a>
+<a href="https://github.com/Gebaaly/Mowakly-legal-platform"><img src="https://img.shields.io/badge/GitHub_Repo-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repo" /></a>
+
+---
+
+### 🎮 Double Kick – PlayStation Management System
 A comprehensive management dashboard for gaming lounges.
 * **Tech:** React, Node.js, Tailwind CSS.
 * **Highlights:** Built real-time dashboards for monitoring active sessions, handling billing/revenue tracking, and managing inventory with a highly responsive user interface.
+
+<a href="https://double-kick.vercel.app/"><img src="https://img.shields.io/badge/Live_Demo-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo" /></a>
+<a href="https://github.com/Gebaaly/Double-Kick"><img src="https://img.shields.io/badge/GitHub_Repo-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repo" /></a>
 
 ---
 
@@ -70,16 +82,7 @@ A comprehensive management dashboard for gaming lounges.
 > Developing scalable applications using React.js & Next.js. Focusing on creating reusable UI components, optimizing performance, ensuring cross-browser compatibility, and seamlessly integrating RESTful APIs.
 
 **Software Trainee @ Digilians (Egyptian Military)** *(Jan 2026 – Jun 2026)*
-> Built full-stack applications (React, Node.js, Express). Implemented complex state management using Redux and Context API, and secured endpoints using JWT authentication.
-
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Gebaaly&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gebaaly&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" width="48%" />
-</div>
+> Built scalable applications (React, Node.js, Express). Implemented complex state management using Redux and Context API, and secured endpoints using JWT authentication.
 
 <br/>
 <p align="center">
